@@ -47,6 +47,10 @@ Operate on drawn files using either the following:
   - =<<td>>= (generate a temporary directory)
   - =<<*>>= (all files joined)
   - =<<cb>>= (clipboard)
+  - =<<fbn>>= (file name no path (basename))
+  - =<<~>>= (home directory)
+  - =<<n>>= or =<<an>>= or =<<1n>>= with inputted number n
+  - =<<some.txt(u)>>= expands to unique "some(1).txt"
 
 For example:
 
